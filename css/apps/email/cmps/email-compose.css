@@ -1,0 +1,63 @@
+/* GENERAL */
+
+.new-msg {
+    width: 80%;
+}
+
+.new-msg {
+    margin: 10px;
+    width: 100%;
+}
+
+hr {
+    margin: 4px 0;
+}
+
+
+/* HEADER */
+
+.new-msg-header {
+    background-color: rgb(60, 134, 194);
+    color: white;
+    line-height: 3em;
+    padding: 14px;
+    font-weight: bolder;
+}
+
+.send-mail-btn {
+    cursor: pointer;
+    font-size: 2em;
+    margin-inline-end: 10px;
+}
+
+
+/* MAIN CONTENT */
+
+.new-msg table {
+    padding: 5px;
+}
+
+.new-msg table tr {
+    width: 100%;
+}
+
+.new-msg td {
+    width: 100%;
+}
+
+.new-msg-content {
+    width: 100%;
+}
+
+.new-msg input {
+    border: unset;
+    outline: unset;
+    width: 90%;
+}
+
+.email-text-area {
+    border: 1px solid lightgrey;
+    outline: 1px solid lightgrey;
+    width: 100%;
+    height: 250px;
+}
